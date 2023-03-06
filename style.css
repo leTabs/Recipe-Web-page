@@ -1,0 +1,33 @@
+:root{
+    --bcolor: cyan;
+}
+*{
+    font-family: sans-serif;
+}
+div{
+    display: flex;
+    border:solid red;
+}
+.rBook{
+    color: rgb(92, 92, 92);
+    font-size: 3rem;
+    font-weight: bold;
+    padding: auto;
+    margin: auto;
+    /* padding: 2rem; */
+    border:solid red;
+}
+.searchForm{
+    width:50%
+}
+main{
+    border: red solid;
+    display: flex;
+}
+.myrec{
+    border: solid black;
+    width: 25%
+}
+.recipeView{
+    width: 25%
+}
